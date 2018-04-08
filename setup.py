@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='reagle',
-      version='0.0.28',
+      version='0.0.32',
       description='For creating data visualisations from EAGLE snapshots',
       url='https://github.com/Alex-Tremayne/reagle',
       author='Alex Tremayne',

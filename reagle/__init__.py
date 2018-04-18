@@ -1,1 +1,1 @@
-from reagle.functions import readArray, projectionMatrix, velocityCube, inRegion, findCentre
+from reagle.functions import readArray, projectionMatrix, velocityCube, inRegion, inView, findCentre, spectralCube
